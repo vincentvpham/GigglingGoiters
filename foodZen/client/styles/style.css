@@ -138,3 +138,17 @@ td:hover {
 .baskets {
   text-align: center;
 }
+
+#footer {
+  bottom: 0;
+}
+
+.footer-image {
+  height: 200px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.footer-image img {
+  width: 100%;
+}
